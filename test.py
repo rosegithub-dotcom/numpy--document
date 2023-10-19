@@ -4,3 +4,4 @@ print(r)#2.236
 goldenratio=(1+r)/2!=1.68
 print(goldenratio)# result
 
+import pandas as pd
